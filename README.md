@@ -14,7 +14,7 @@ An e-commerce web application with Google Analytics integration.
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/Epic-mart.git
+git clone https://github.com/gethmiyasasmi1/Epic-mart.git
 cd Epic-mart
 npm install
 npm start
